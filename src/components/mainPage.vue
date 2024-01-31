@@ -52,7 +52,7 @@ const printConsole =()=>{
 
 <style scoped>
 h1{
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 700;
     font-family:  'Times New Roman', serif;
     color: rgb(0, 0, 133);
